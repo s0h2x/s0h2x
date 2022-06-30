@@ -1,4 +1,11 @@
-### Hi there 👋
+## pretty wow project ✨
+
+### social
+<p align="left">
+  <a href="https://github.com/s0h2x" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
+  <a href="https://discord.gg/xpmAYHdzAm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>  
+</p>
+<img align="right" width="350px" src="https://s2.loli.net/2022/07/01/qCprO23emvg4cA6.png" />
 
 <!--
 **s0h2x/s0h2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
