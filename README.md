@@ -1,6 +1,4 @@
 ## pretty wow project ✨
-
-### social
 <p align="left">
 <img align="right" width="275px" src="https://s2.loli.net/2022/07/01/qCprO23emvg4cA6.png" />
   <a href="https://github.com/s0h2x" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
