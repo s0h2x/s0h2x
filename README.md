@@ -1,11 +1,20 @@
-## pretty wow project ✨
+## WoW UI Backport Project ✨
+Modern interface modules adapted for Legacy & Classic WoW version.
+
+Built with modular architecture and long-term maintainability in mind.
+
+#### Current Status
+- 🔄 Active development
+
+### 🔗 Links
 <p align="left">
-<img align="right" width="275px" src="https://s2.loli.net/2022/07/01/qCprO23emvg4cA6.png" />
-  <a href="https://github.com/s0h2x" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white" alt="GitHub"></a>
-  <a href="https://discord.gg/xpmAYHdzAm" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
+  <!--
+  <a href="https://github.com/s0h2x?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-000000?&style=flat-square&logo=GitHub&logoColor=white" /></a>
+  -->
+  <a href="https://discord.gg/xpmAYHdzAm"><img src="https://img.shields.io/badge/Discord-Community-7289DA?style=flat-square&logo=Discord&logoColor=7289DA" /></a>
+  <a href="https://boosty.to/s0high"><img src="https://img.shields.io/badge/Boosty-Support-orange?style=flat-square&logo=Boosty&logoColor=orange" /></a>
 </p>
 
-development in progress ...
 <!--
 **s0h2x/s0h2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
