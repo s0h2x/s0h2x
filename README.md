@@ -16,9 +16,11 @@ Built with modular architecture and long-term maintainability in mind.
   <a href="https://boosty.to/s0high"><img src="https://img.shields.io/badge/Boosty-Support-orange?style=flat-square&logo=Boosty&logoColor=orange" /></a>
 </p>
 
+<!--
 <p align="left">
  <a href="mailto:s0h2x.hub@gmail.com"><img src="https://img.shields.io/badge/Contact-s0h2x.hub@gmail.com-0078C4?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
 </p
+-->
 
 <!--
 **s0h2x/s0h2x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
